@@ -1,0 +1,51 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+
+body{
+    background: #F8F8F8;
+}
+
+
+#head{
+    margin:50px 47%;
+    height: 80px;
+    width: 80px;
+}
+
+#jspPage{
+    background: #F9F9F9;
+}
+
+#name{
+    position: absolute;
+    left: 48%;
+    top: 140px;
+}
+
+#glbbsay{
+    position: absolute;
+    left: 45%;
+    top: 160px;
+}
+
+#blog{
+    /*border: 1px solid black;*/
+    width: 800px;
+    margin: 20px auto;
+    background: #FFFFFF;
+    padding: 20px 10px 0px 60px;
+}
+
+.title{
+    color: #3E82C2;
+    margin: 10px 30px;
+    height: 30px;
+}
+
+.title:hover{
+    cursor: pointer;
+    font-size: 18px;
+    text-decoration: underline;
+}

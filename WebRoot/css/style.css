@@ -1,0 +1,32 @@
+
+/*控制欢迎界面样式*/
+#index{
+    background: #FFFFFF;
+}
+
+#javaflag{
+    position: absolute;
+    left: 100px;
+    top: 30px;
+}
+
+#welcome{
+    position: absolute;
+    left: 50px;
+    top: 100px;
+}
+
+#encourage{
+    width: 500px;
+    position: absolute;
+    top: 280px;
+    left: 50px;
+}
+
+#onroad{
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    left: 680px;
+    top: 30px;
+}
